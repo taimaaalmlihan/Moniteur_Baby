@@ -11,10 +11,16 @@ Recevez des alertes lorsque la température ambiante ou le niveau de bruit est c
 
 Matières utilisées :
 
-Capteur de son. 
-Capteur de lumière. 
-Capteur d’humidité et température.Carte Arduino mini pro.
+Capteur de son.
+
+Capteur de lumière.
+
+Capteur d’humidité et température.
+
+Carte Arduino mini pro.
+
 TTGO ESP8266.
+
 Buzzer.
 
 
